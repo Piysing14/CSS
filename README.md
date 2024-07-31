@@ -1,1 +1,1 @@
-This is my mini CSS project
+This is my mini CSS project.
